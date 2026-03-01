@@ -8,9 +8,9 @@ export default function MainLayout() {
     return (
         <>
             <Navbar />
-            <Container>
+           
                 <Outlet />
-            </Container>
+            
             <Footer />
 
         </>
